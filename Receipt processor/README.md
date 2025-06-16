@@ -10,7 +10,7 @@ The architecture consists of:
 5- AWS Lambda: Automates the processing workflow for real-time execution. [Compute]
 6- IAM Roles & Policies: Ensures secure access between services. [Security]
 
-CLEAN UP 🗑️
+CLEAN UP 🗑️ 
 1. Delete S3 Bucket:
 
 Remove all uploaded receipt files and then delete the bucket.
