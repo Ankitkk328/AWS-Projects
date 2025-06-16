@@ -17,7 +17,7 @@ The architecture consists of:
 6- IAM Roles & Policies: Ensures secure access between services. [Security]
 
 
-CLEAN UP 🗑️ 
+CLEAN UP 🗑️ (to avoid billing)
 
 1. Delete S3 Bucket:
 
@@ -38,5 +38,7 @@ If SES was configured, remove verified email addresses.
 5. Remove IAM Roles and Policies: 
 
 Delete the IAM role created for the Lambda function.
+
+NOTE: "Demo deployed on AWS (now offline to avoid charges)"
 
 
